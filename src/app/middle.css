@@ -1,0 +1,27 @@
+.tryolxx {
+    display: inline-block;
+}
+
+.middle {
+    background-color: whitesmoke;
+    
+
+}
+
+.buysell {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.getapp {
+    display: inline-block;
+ margin-left: 150px;
+ justify-content: right;
+ margin-bottom: 30px;
+
+}
+
+.appimage {
+    display: inline-block;
+    margin-left: 20px;
+}

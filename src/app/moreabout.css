@@ -1,0 +1,21 @@
+.moreabout {
+    background-color: whitesmoke;
+    
+}
+
+.mainheading {
+    color: darkslategrey;
+    margin-top: 10px;
+}
+
+.card1 {
+    display: inline-block !important;
+    margin-left: 35px !important;
+    
+
+} 
+
+.card-img-top4 {
+    height: 215px !important;
+    width: 287px !important;
+}

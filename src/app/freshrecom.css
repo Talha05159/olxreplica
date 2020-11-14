@@ -1,0 +1,60 @@
+.card {
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+
+.card-img-top-tv {
+    height: 216px !important;
+    width: 288px;
+}
+
+
+.card-ad {
+    display: inline-block;
+    background-color: dodgerblue;
+    margin-left: 30px;
+    margin-bottom: 25px;
+    margin-top: 5px;   
+
+}
+
+.wanttosell {
+    margin-top: 17px !important;
+    font-size: 20px !important;
+    color: white;
+    text-align: center;
+}
+
+.makesomecash {
+    color: white;
+    text-align: center;
+}
+ .startselling {
+     background-color: dodgerblue;
+     width: 240px;
+     color: white;
+     border: 2px solid white;
+     border-radius: 5px;
+ }
+
+button :hover {
+border: 5px solid white;
+}
+
+.card-img-top-ro {
+    height: 216px !important;
+    width: 288px;
+}
+
+.loadmore {
+    background-color: white;
+    color: black;
+    width: 120px;
+    height: 40px;
+    border: 2px black solid;
+    border-radius: 3px;
+    font-weight: bold;
+}
+ 
